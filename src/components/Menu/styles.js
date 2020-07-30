@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const LogoImage = styled.img`
   max-width: 168px;
+
   @media (max-width: 800px) {
     max-width: 105px;
     }
@@ -26,3 +27,5 @@ export const MenuWrapper = styled.nav`
   background: var(--black);
   border-bottom: 2px solid var(--primary);
 `;
+
+

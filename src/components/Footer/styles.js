@@ -21,4 +21,8 @@ export const FooterBase = styled.footer`
     height: 35px;
     vertical-align: middle;
     margin-left: 8px;
+
 `;
+
+
+

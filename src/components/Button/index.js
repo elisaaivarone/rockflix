@@ -14,10 +14,12 @@ const Button = styled.button`
   text-decoration: none;
   display: inline-block;
   transition: opacity .3s;
+
   &:hover,
   &:focus {
     opacity: .5;
   }
+
   @media( max-width: 800px) {
     border: 0;
     border-radius: 0;
@@ -30,5 +32,6 @@ const Button = styled.button`
     outline: 0;
     text-align: center;
   }
+
 `;
 export default Button;
