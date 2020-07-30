@@ -9,7 +9,10 @@ import Footer from '../../components/Footer';
 const AppWrapper = styled.div`
   background: var(--grayDark);
 
-  padding-top: 94px;
+  body {
+  --bodyPaddingTop: 94px;
+  padding-top: var(--bodyPaddingTop);
+}
 
   @media( max-width: 800px) {
     padding-top: 40px;
