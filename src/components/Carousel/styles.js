@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const VideoCardGroupContainer = styled.section`
   color: var(--white);
   min-height: 197px;
-  margin-left: 5%;
+  margin-left: 3%;
   margin-bottom: 16px;
 `;
 
@@ -14,10 +14,11 @@ export const Title = styled.h3`
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
-  padding: 20px;
+  padding: 15px;
   background: red;
   line-height: 1;
   border-radius: 4px;
+  font-family: 'Shadows Into Light', cursive;
 
   @media (max-width: 800px) {
     font-size: 18px;

@@ -1,183 +1,183 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Wacken",
+      "link": "",
+      "cor": "#2e2e30",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Assista aos melhores shows do Wacken",
+        "url": "https://www.wacken.com/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "VIPER - The Spreading Soul Forever",
+          "url": "https://youtu.be/pie8jL9aPZA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Iron Maiden - Live Wacken 2016",
+          "url": "https://youtu.be/oUqoSIKyCb4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Helloween - Live Wacken 2018",
+          "url": "https://youtu.be/8VrenjWGEcQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Epica - 3 Songs - Live at Wacken Open Air 2018",
+          "url": "https://youtu.be/4yLwqz1v_nc"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Rammstein - LIVE at Wacken 2013",
+          "url": "https://youtu.be/AWq1VoRVlDY"
+        },  
+        {
+          "titulo": "Slayer - Live at Wacken 2014",
+          "url": "https://youtu.be/rzcYrPAsJvA"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Motorhead - Live At Wacken Open Air 2006",
+          "url": "https://youtu.be/jk886pOS4Mo"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Sepultura - Live at Wacken Open Air 2018",
+          "url": "https://youtu.be/SHAQhxuV960"
+        }
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Rock in Rio",
+      "cor": "#1a79bf",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Melhores shows do Rock in Rio",
+        "url": "https://rockinrio.com/rio/pt-br/home/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Scorpions LIVE 2019 Rock in Rio",
+          "url": "https://youtu.be/VjHWSXU4wJE"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Andre Matos + Viper Rock In Rio 2013",
+          "url": "https://youtu.be/cPSQ54ncSpQ"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Metallica - Live In Rock In Rio Brasil 2015",
+          "url": "https://youtu.be/4SUpom7Vn_s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Iron Maiden - Rock In Rio 2013",
+          "url": "https://youtu.be/Z3SvkefKslg"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Torture Squad Live @ Rock in Rio 2019",
+          "url": "https://youtu.be/0CZzOdO1IMs"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Monsters of Rock",
+      "cor": "#735a2d",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Melhores shows do Monsters of Rock",
+        "url": "https://www.themonstersofrock.com/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Black Sabbath - Monsters Of Rock 1994",
+          "url": "https://youtu.be/m7mw4_i7jxE"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "KISS - Monsters Of Rock São Paulo 1994",
+          "url": "https://youtu.be/aL6ulPJddpI"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Angra Monsters of Rock 1994",
+          "url": "https://youtu.be/QGlRp5FgIP4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "AC/DC - Thunderstruck Donington 1991)",
+          "url": "https://youtu.be/Af0P6XEkI7Y"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Sonisphere",
+      "cor": "#5a2013",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Dream Theater - Sonisphere 2014",
+          "url": "https://youtu.be/OGfH4XH4Fmk"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Anthrax - Sonisphere Festival UK 2011",
+          "url": "https://youtu.be/mDAI0vYc-nU"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Slayer - Sonisphere Festival UK 2011",
+          "url": "https://youtu.be/X-CIt5uHXlY"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Alice in Chains - Sonisphere Festival 2010",
+          "url": "https://youtu.be/AMNnTac0lgM"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Download Fest",
+      "cor": "#5F6A75",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Os melhores shows do Download Fest",
+        "url": "https://downloadfestival.co.uk/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Slipknot: Live at Download Festival 2019",
+          "url": "https://youtu.be/QO3j9niG1Og"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Guns N' Roses - Download Festival UK 2018",
+          "url": "https://youtu.be/UTulnklNm2Q"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "System Of A Down - Download Festival England 2017",
+          "url": "https://youtu.be/AgVHownSMyM"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Faith No More - Download Festival UK 2009",
+          "url": "https://youtu.be/j7nFiNk157o"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Ghost Download Festival France 2018",
+          "url": "https://youtu.be/W6D1BrKOV6Q"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Documentário",
+      "cor": "#4c6d59",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Full The Show Must Go On: Queen + Adam Lambert journey",
+          "url": "https://youtu.be/oaK7tHP2GBc"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "AC/DC Documentário",
+          "url": "https://youtu.be/6I4RDNDUXMg"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Iron Maiden Flight 666",
+          "url": "https://youtu.be/2Y0UrrfoAb0"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Led Zeppelin: Dazed and Confused",
+          "url": "https://youtu.be/wM6jG6OxfjE"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "The Doors (very rare documentary)",
+          "url": "https://youtu.be/D64wTCDqZm8"
         }
       ]
     }
