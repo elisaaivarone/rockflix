@@ -26,7 +26,7 @@ function Home() {
       <BarnnerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={'Ao melhor cantor do Brasil, Andre Matos!'}
+        videoDescription="Ao melhor cantor do Brasil, Andre Matos!"
       />
 
       <Carousel

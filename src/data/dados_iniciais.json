@@ -102,6 +102,10 @@
     {
       "titulo": "Sonisphere",
       "cor": "#5a2013",
+      "link_extra": {
+        "text": "Melhores shows do Sonisphere",
+        "url": "https://www.themonstersofrock.com/"
+      },
       "videos": [
         {
           "titulo": "Dream Theater - Sonisphere 2014",
@@ -152,10 +156,10 @@
       ]
     },
     {
-      "titulo": "Documentário",
+      "titulo": "Documentários",
       "cor": "#4c6d59",
       "link_extra": {
-        "text": "",
+        "text": "Assista aos melhores documentários sobre bandas",
         "url": ""
       },
       "videos": [

@@ -1,0 +1,40 @@
+{
+  "categoria": [
+    {
+      "id": 1,
+      "nome": "Wacken",
+      "descricao": "O melhor festival do mundo",
+      "cor": "#2e2e30"
+    },
+    {
+      "id": 2,
+      "nome": "Rock in Rio",
+      "descricao": "Os melhores shows do RIR",
+      "cor": "#1a79bf"
+    },
+    {
+      "id": 3,
+      "nome": "Monsters of Rock",
+      "descricao": "Os melhores shows do Monsters of Rock",
+      "cor": "#735a2d"
+    },
+    {
+      "id": 4,
+      "nome": "Sonisphere",
+      "descricao": "Os melhores shows do Sonisphere",
+      "cor": "#5a2013"
+    },
+    {
+      "id": 5,
+      "nome": "Download Fest",
+      "descricao": "Os melhores shows do Download Fest",
+      "cor": "#5F6A75"
+    },
+    {
+      "id": 5,
+      "nome": "Documentários",
+      "descricao": "Assista aos melhores documentários sobre bandas",
+      "cor": "#4c6d59"
+      }
+    ]
+}
