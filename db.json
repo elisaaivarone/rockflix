@@ -2,39 +2,63 @@
   "categoria": [
     {
       "id": 1,
-      "nome": "Wacken",
+      "titulo": "Wacken",
       "descricao": "O melhor festival do mundo",
-      "cor": "#2e2e30"
+      "cor": "#2e2e30",
+      "link_extra": {
+        "text": "Assista aos melhores shows do Wacken",
+        "url": "https://www.wacken.com/"
+      }
     },
     {
       "id": 2,
-      "nome": "Rock in Rio",
+      "titulo": "Rock in Rio",
       "descricao": "Os melhores shows do RIR",
-      "cor": "#1a79bf"
+      "cor": "#1a79bf",
+      "link_extra": {
+        "text": "Melhores shows do Rock in Rio",
+        "url": "https://rockinrio.com/rio/pt-br/home/"
+      }
     },
     {
       "id": 3,
-      "nome": "Monsters of Rock",
+      "titulo": "Monsters of Rock",
       "descricao": "Os melhores shows do Monsters of Rock",
-      "cor": "#735a2d"
+      "cor": "#735a2d",
+      "link_extra": {
+        "text": "Melhores shows do Monsters of Rock",
+        "url": "https://www.themonstersofrock.com/"
+      }
     },
     {
       "id": 4,
-      "nome": "Sonisphere",
+      "titulo": "Sonisphere",
       "descricao": "Os melhores shows do Sonisphere",
-      "cor": "#5a2013"
+      "cor": "#5a2013",
+      "link_extra": {
+        "text": "Melhores shows do Sonisphere",
+        "url": "https://www.themonstersofrock.com/"
+      }
     },
     {
       "id": 5,
-      "nome": "Download Fest",
+      "titulo": "Download Fest",
       "descricao": "Os melhores shows do Download Fest",
-      "cor": "#5F6A75"
+      "cor": "#5F6A75",
+      "link_extra": {
+        "text": "Os melhores shows do Download Fest",
+        "url": "https://downloadfestival.co.uk/"
+      }
     },
     {
       "id": 5,
-      "nome": "Documentários",
+      "titulo": "Documentários",
       "descricao": "Assista aos melhores documentários sobre bandas",
-      "cor": "#4c6d59"
+      "cor": "#4c6d59",
+      "link_extra": {
+        "text": "Assista aos melhores documentários sobre bandas",
+        "url": ""
+      }
       }
     ]
 }

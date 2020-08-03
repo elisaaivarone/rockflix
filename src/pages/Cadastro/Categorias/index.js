@@ -28,7 +28,9 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL = 'http://localhost:8080/categoria';
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categoria '
+      : 'https://lisarockflix.herokuapp.com/categoria';
 
     fetch(URL)
       .then(async (respostaDoServidor) => {
@@ -84,6 +86,12 @@ function CadastroCategoria() {
           Cadastrar
         </Button>
       </form>
+
+      {categorias.length === 0 && (
+      <div>
+        Loading ...
+      </div>
+      )}
 
       <ul>
         {categorias.map((categoria) => (
