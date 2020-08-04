@@ -1,11 +1,12 @@
 import { useState } from 'react';
 
-export default function useForm(valoresIniciais) {
+function useForm(valoresIniciais) {
   const [values, setValues] = useState(valoresIniciais);
+
   function setValue(chave, valor) {
     setValues({
       ...values,
-      [chave]: valor,
+      [chave]: valor, // nome: 'valor'
     });
   }
 
@@ -26,3 +27,5 @@ export default function useForm(valoresIniciais) {
     clearForm,
   };
 }
+
+export default useForm;

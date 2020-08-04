@@ -27,5 +27,3 @@ export const MenuWrapper = styled.nav`
   background: var(--black);
   border-bottom: 2px solid var(--primary);
 `;
-
-

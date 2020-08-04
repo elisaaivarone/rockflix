@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import PageDefault from '../../../components/PagesDefault';
+import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
 import useForm from '../../../hooks/useForm';
@@ -16,11 +16,11 @@ function CadastroCategoria() {
   const [categorias, setCategorias] = useState([]);
 
   useEffect(() => {
-    const URL = window.location.hostname.includes('localhost')
-      ? 'http://localhost:8080/categoria '
-      : 'https://lisarockflix.herokuapp.com/categoria';
+    const URL_TOP = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://lisarockflix.herokuapp.com/categorias';
 
-    fetch(URL)
+    fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
         setCategorias([
@@ -79,14 +79,6 @@ function CadastroCategoria() {
         Loading ...
       </div>
       )}
-
-      <ul>
-        {categorias.map((categoria) => (
-          <li key={`${categoria.titulo}`}>
-            {categoria.titulo}
-          </li>
-        ))}
-      </ul>
 
       <br />
       <br />

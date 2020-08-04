@@ -1,252 +1,264 @@
 {
-    "categoria": [
-        {
-            "id": 1,
-            "titulo": "Wacken",
-            "descricao": "O melhor festival do mundo",
-            "cor": "#2e2e30",
-            "link_extra": {
-                "text": "Assista aos melhores shows do Wacken",
-                "url": "https://www.wacken.com/"
-            }
-        },
-        {
-            "id": 2,
-            "titulo": "Rock in Rio",
-            "descricao": "Os melhores shows do RIR",
-            "cor": "#1a79bf",
-            "link_extra": {
-                "text": "Melhores shows do Rock in Rio",
-                "url": "https://rockinrio.com/rio/pt-br/home/"
-            }
-        },
-        {
-            "id": 3,
-            "titulo": "Monsters of Rock",
-            "descricao": "Os melhores shows do Monsters of Rock",
-            "cor": "#735a2d",
-            "link_extra": {
-                "text": "Melhores shows do Monsters of Rock",
-                "url": "https://www.themonstersofrock.com/"
-            }
-        },
-        {
-            "id": 4,
-            "titulo": "Sonisphere",
-            "descricao": "Os melhores shows do Sonisphere",
-            "cor": "#5a2013",
-            "link_extra": {
-                "text": "Melhores shows do Sonisphere",
-                "url": "https://www.themonstersofrock.com/"
-            }
-        },
-        {
-            "id": 5,
-            "titulo": "Download Fest",
-            "descricao": "Os melhores shows do Download Fest",
-            "cor": "#5F6A75",
-            "link_extra": {
-                "text": "Os melhores shows do Download Fest",
-                "url": "https://downloadfestival.co.uk/"
-            }
-        },
-        {
-            "id": 6,
-            "titulo": "Documentários",
-            "descricao": "Assista aos melhores documentários sobre bandas",
-            "cor": "#4c6d59",
-            "link_extra": {
-                "text": "Assista aos melhores documentários sobre bandas",
-                "url": ""
-            }
-        }
-    ],
-    "videos": [
-        {
-            "id": 1,
-            "categoriaId": 1,
-            "titulo": "VIPER - The Spreading Soul Forever",
-            "url": "https://youtu.be/pie8jL9aPZA"
-        },
-        {
-            "id": 2,
-            "categoriaId": 1,
-            "titulo": "Iron Maiden - Live Wacken 2016",
-            "url": "https://youtu.be/oUqoSIKyCb4"
-        },
-        {
-            "id": 3,
-            "categoriaId": 1,
-            "titulo": "Helloween - Live Wacken 2018",
-            "url": "https://youtu.be/8VrenjWGEcQ"
-        },
-        {
-            "id": 4,
-            "categoriaId": 1,
-            "titulo": "Epica - 3 Songs - Live at Wacken Open Air 2018",
-            "url": "https://youtu.be/4yLwqz1v_nc"
-        },
-        {
-            "id": 5,
-            "categoriaId": 1,
-            "titulo": "Rammstein - LIVE at Wacken 2013",
-            "url": "https://youtu.be/AWq1VoRVlDY"
-        },
-        {
-            "id": 6,
-            "categoriaId": 1,
-            "titulo": "Slayer - Live at Wacken 2014",
-            "url": "https://youtu.be/rzcYrPAsJvA"
-        },
-        {
-            "id": 7,
-            "categoriaId": 1,
-            "titulo": "Motorhead - Live At Wacken Open Air 2006",
-            "url": "https://youtu.be/jk886pOS4Mo"
-        },
-        {
-            "id": 8,
-            "categoriaId": 1,
-            "titulo": "Sepultura - Live at Wacken Open Air 2018",
-            "url": "https://youtu.be/SHAQhxuV960"
-        },
-        {
-            "id": 9,
-            "categoriaId": 2,
-            "titulo": "Scorpions LIVE 2019 Rock in Rio",
-            "url": "https://youtu.be/VjHWSXU4wJE"
-        },
-        {
-            "id": 10,
-            "categoriaId": 2,
-            "titulo": "Andre Matos + Viper Rock In Rio 2013",
-            "url": "https://youtu.be/cPSQ54ncSpQ"
-        },
-        {
-            "id": 11,
-            "categoriaId": 2,
-            "titulo": "Metallica - Live In Rock In Rio Brasil 2015",
-            "url": "https://youtu.be/4SUpom7Vn_s"
-        },
-        {
-            "id": 12,
-            "categoriaId": 2,
-            "titulo": "Iron Maiden - Rock In Rio 2013",
-            "url": "https://youtu.be/Z3SvkefKslg"
-        },
-        {
-            "id": 13,
-            "categoriaId": 2,
-            "titulo": "Torture Squad Live @ Rock in Rio 2019",
-            "url": "https://youtu.be/0CZzOdO1IMs"
-        },
-        {
-            "id": 14,
-            "categoriaId": 3,
-            "titulo": "Black Sabbath - Monsters Of Rock 1994",
-            "url": "https://youtu.be/m7mw4_i7jxE"
-        },
-        {
-            "id": 15,
-            "categoriaId": 3,
-            "titulo": "KISS - Monsters Of Rock São Paulo 1994",
-            "url": "https://youtu.be/aL6ulPJddpI"
-        },
-        {
-            "id": 16,
-            "categoriaId": 3,
-            "titulo": "Angra Monsters of Rock 1994",
-            "url": "https://youtu.be/QGlRp5FgIP4"
-        },
-        {
-            "id": 17,
-            "categoriaId": 3,
-            "titulo": "AC/DC - Thunderstruck Donington 1991)",
-            "url": "https://youtu.be/Af0P6XEkI7Y"
-        },
-        {
-            "id": 18,
-            "categoriaId": 4,
-            "titulo": "Dream Theater - Sonisphere 2014",
-            "url": "https://youtu.be/OGfH4XH4Fmk"
-        },
-        {
-            "id": 19,
-            "categoriaId": 4,
-            "titulo": "Anthrax - Sonisphere Festival UK 2011",
-            "url": "https://youtu.be/mDAI0vYc-nU"
-        },
-        {
-            "id": 20,
-            "categoriaId": 4,
-            "titulo": "Slayer - Sonisphere Festival UK 2011",
-            "url": "https://youtu.be/X-CIt5uHXlY"
-        },
-        {
-            "id": 21,
-            "categoriaId": 4,
-            "titulo": "Alice in Chains - Sonisphere Festival 2010",
-            "url": "https://youtu.be/AMNnTac0lgM"
-        },
-        {
-            "id": 22,
-            "categoriaId": 5,
-            "titulo": "Slipknot: Live at Download Festival 2019",
-            "url": "https://youtu.be/QO3j9niG1Og"
-        },
-        {
-            "id": 23,
-            "categoriaId": 5,
-            "titulo": "Guns N' Roses - Download Festival UK 2018",
-            "url": "https://youtu.be/UTulnklNm2Q"
-        },
-        {
-            "id": 24,
-            "categoriaId": 5,
-            "titulo": "System Of A Down - Download Festival England 2017",
-            "url": "https://youtu.be/AgVHownSMyM"
-        },
-        {
-            "id": 25,
-            "categoriaId": 5,
-            "titulo": "Faith No More - Download Festival UK 2009",
-            "url": "https://youtu.be/j7nFiNk157o"
-        },
-        {
-            "id": 26,
-            "categoriaId": 5,
-            "titulo": "Ghost Download Festival France 2018",
-            "url": "https://youtu.be/W6D1BrKOV6Q"
-        },
-        {
-            "id": 27,
-            "categoriaId": 6,
-            "titulo": "Full The Show Must Go On: Queen + Adam Lambert journey",
-            "url": "https://youtu.be/oaK7tHP2GBc"
-        },
-        {
-            "id": 28,
-            "categoriaId": 6,
-            "titulo": "AC/DC Documentário",
-            "url": "https://youtu.be/6I4RDNDUXMg"
-        },
-        {
-            "id": 29,
-            "categoriaId": 6,
-            "titulo": "Iron Maiden Flight 666",
-            "url": "https://youtu.be/2Y0UrrfoAb0"
-        },
-        {
-            "id": 30,
-            "categoriaId": 6,
-            "titulo": "Led Zeppelin: Dazed and Confused",
-            "url": "https://youtu.be/wM6jG6OxfjE"
-        },
-        {
-            "id": 31,
-            "categoriaId": 6,
-            "titulo": "The Doors (very rare documentary)",
-            "url": "https://youtu.be/D64wTCDqZm8"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Wacken",
+      "descricao": "O melhor festival do mundo",
+      "cor": "#2e2e30",
+      "link_extra": {
+        "text": "Assista aos melhores shows do Wacken",
+        "url": "https://www.wacken.com/"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Rock in Rio",
+      "descricao": "Os melhores shows do RIR",
+      "cor": "#1a79bf",
+      "link_extra": {
+        "text": "Melhores shows do Rock in Rio",
+        "url": "https://rockinrio.com/rio/pt-br/home/"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Monsters of Rock",
+      "descricao": "Os melhores shows do Monsters of Rock",
+      "cor": "#735a2d",
+      "link_extra": {
+        "text": "Melhores shows do Monsters of Rock",
+        "url": "https://www.themonstersofrock.com/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Sonisphere",
+      "descricao": "Os melhores shows do Sonisphere",
+      "cor": "#5a2013",
+      "link_extra": {
+        "text": "Melhores shows do Sonisphere",
+        "url": "https://www.themonstersofrock.com/"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Download Fest",
+      "descricao": "Os melhores shows do Download Fest",
+      "cor": "#5F6A75",
+      "link_extra": {
+        "text": "Os melhores shows do Download Fest",
+        "url": "https://downloadfestival.co.uk/"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Documentários",
+      "descricao": "Assista aos melhores documentários sobre bandas",
+      "cor": "#4c6d59",
+      "link_extra": {
+        "text": "Assista aos melhores documentários sobre bandas",
+        "url": ""
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "VIPER - The Spreading Soul Forever",
+      "url": "https://youtu.be/pie8jL9aPZA"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Iron Maiden - Live Wacken 2016",
+      "url": "https://youtu.be/oUqoSIKyCb4"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Helloween - Live Wacken 2018",
+      "url": "https://youtu.be/8VrenjWGEcQ"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Epica - 3 Songs - Live at Wacken Open Air 2018",
+      "url": "https://youtu.be/4yLwqz1v_nc"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Rammstein - LIVE at Wacken 2013",
+      "url": "https://youtu.be/AWq1VoRVlDY"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Slayer - Live at Wacken 2014",
+      "url": "https://youtu.be/rzcYrPAsJvA"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Motorhead - Live At Wacken Open Air 2006",
+      "url": "https://youtu.be/jk886pOS4Mo"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Sepultura - Live at Wacken Open Air 2018",
+      "url": "https://youtu.be/SHAQhxuV960"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Scorpions LIVE 2019 Rock in Rio",
+      "url": "https://youtu.be/VjHWSXU4wJE"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Andre Matos + Viper Rock In Rio 2013",
+      "url": "https://youtu.be/cPSQ54ncSpQ"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Metallica - Live In Rock In Rio Brasil 2015",
+      "url": "https://youtu.be/4SUpom7Vn_s"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Iron Maiden - Rock In Rio 2013",
+      "url": "https://youtu.be/Z3SvkefKslg"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Torture Squad Live @ Rock in Rio 2019",
+      "url": "https://youtu.be/0CZzOdO1IMs"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Black Sabbath - Monsters Of Rock 1994",
+      "url": "https://youtu.be/m7mw4_i7jxE"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "KISS - Monsters Of Rock São Paulo 1994",
+      "url": "https://youtu.be/aL6ulPJddpI"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Angra Monsters of Rock 1994",
+      "url": "https://youtu.be/QGlRp5FgIP4"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "AC/DC - Thunderstruck Donington 1991)",
+      "url": "https://youtu.be/Af0P6XEkI7Y"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Dream Theater - Sonisphere 2014",
+      "url": "https://youtu.be/OGfH4XH4Fmk"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Anthrax - Sonisphere Festival UK 2011",
+      "url": "https://youtu.be/mDAI0vYc-nU"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Slayer - Sonisphere Festival UK 2011",
+      "url": "https://youtu.be/X-CIt5uHXlY"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Alice in Chains - Sonisphere Festival 2010",
+      "url": "https://youtu.be/AMNnTac0lgM"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Slipknot: Live at Download Festival 2019",
+      "url": "https://youtu.be/QO3j9niG1Og"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Guns N' Roses - Download Festival UK 2018",
+      "url": "https://youtu.be/UTulnklNm2Q"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "System Of A Down - Download Festival England 2017",
+      "url": "https://youtu.be/AgVHownSMyM"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Faith No More - Download Festival UK 2009",
+      "url": "https://youtu.be/j7nFiNk157o"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Ghost Download Festival France 2018",
+      "url": "https://youtu.be/W6D1BrKOV6Q"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "Full The Show Must Go On: Queen + Adam Lambert journey",
+      "url": "https://youtu.be/oaK7tHP2GBc"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "AC/DC Documentário",
+      "url": "https://youtu.be/6I4RDNDUXMg"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "Iron Maiden Flight 666",
+      "url": "https://youtu.be/2Y0UrrfoAb0"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Led Zeppelin: Dazed and Confused",
+      "url": "https://youtu.be/wM6jG6OxfjE"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "The Doors (very rare documentary)",
+      "url": "https://youtu.be/D64wTCDqZm8"
+    },
+    {
+      "id": 32,
+      "categoriaId": 1,
+      "titulo": "https://youtu.be/jR6umWwwFPk",
+      "url": "https://youtu.be/jR6umWwwFPk"
+    },
+    {
+      "id": 33,
+      "categoriaId": 2,
+      "titulo": "https://youtu.be/cfSDBChvspc",
+      "url": "https://youtu.be/cfSDBChvspc"
+    }
+  ]
 }
