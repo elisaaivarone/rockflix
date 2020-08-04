@@ -80,6 +80,14 @@ function CadastroCategoria() {
       </div>
       )}
 
+      {/* <ul>
+        {categorias.map((categoria) => (
+          <li key={`${categoria.titulo}`}>
+            {categoria.titulo}
+          </li>
+        ))}
+      </ul> */}
+
       <br />
       <br />
 
