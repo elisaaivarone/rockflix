@@ -1,6 +1,8 @@
 import React from 'react';
+import { useHistory } from 'react-router-dom';
 import VideoIframeResponsive from './components/VideoIframeResponsive';
 import { BannerMainContainer, ContentAreaContainer, WatchButton } from './styles';
+import json from '../../data/watch.json';
 
 function getYouTubeId(youtubeURL) {
   return youtubeURL
@@ -17,6 +19,11 @@ export default function BannerMain({
 }) {
   const youTubeID = getYouTubeId(url);
   const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+  const history = useHistory();
+  const navigateTo = () => {
+    json.id = youTubeID;
+    history.push('/watch');
+  };
 
   return (
     <BannerMainContainer backgroundImage={bgUrl}>
@@ -35,8 +42,8 @@ export default function BannerMain({
           <VideoIframeResponsive
             youtubeID={youTubeID}
           />
-          <WatchButton>
-            Assistir
+          <WatchButton onClick={navigateTo}>
+            Assistir Vídeo
           </WatchButton>
         </ContentAreaContainer.Item>
       </ContentAreaContainer>
