@@ -22,6 +22,7 @@ export const ResponsiveIframe = styled.iframe`
 
 function Watch() {
   const videoId = `https://www.youtube.com/embed/${json.id}?autoplay=1`;
+  // eslint-disable-next-line max-len
   // A variável 'videoID' concatena o endereço padrão do vídeo com a ID do vídeo selecionado e a configuração adicional de autoplay
   return (
     <PageDefault>
