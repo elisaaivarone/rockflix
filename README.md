@@ -3,30 +3,37 @@
 ## Instrutores
 
 * ### Mario Souto
-  *Instrutor da Alura, engenheiro Nubank*
 [![LinkedIn](https://img.shields.io/badge/-omariosouto-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/omariosouto/)](https://www.linkedin.com/in/omariosouto/)
+  *Instrutor da Alura, engenheiro Nubank*
+
 
 * ### Juliana Negreiros 
-  *Coordenadora dos cursos de front-end da Alura*
 [![LinkedIn](https://img.shields.io/badge/-juliananegreiros-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/juliananegreiros/)](https://www.linkedin.com/in/juliananegreiros/)
+  *Coordenadora dos cursos de front-end da Alura*
+
 
 * ### Marco Bruno 
-  *Engenheiro de software na Suécia*
 [![LinkedIn](https://img.shields.io/badge/-marcobrunobr-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/marcobrunobr/)](https://www.linkedin.com/in/marcobrunobr/)
+  *Engenheiro de software na Suécia*
+
 
 ### Resumo do Projeto:
 
 O projeto consiste em desenvolver uma aplicação web reproduzindo a interface da Netflix, podendo colocar uma lista de videos favoritos. Criei assim a Rockflix com os meus videos favoritos de festivais.
 
-1 - Iniciamos o projeto usando o Create React App, criamos vários componentes e fizemos a publicação da aplicação usando Vercel.
+1 - Iniciando o projeto usando o Create React App, criando vários componentes e fazendo a publicação da aplicação usando Vercel.
 
-2 - A aplicação será SPA. Criamos um template com cabeçalho e rodapé e um carrossel para mostrar os videos.
+2 - A aplicação será SPA. Criado um template com cabeçalho e rodapé e um carrossel para mostrar os videos.
 
-3 - Entendemos como trabalhar com elementos dinâmicos na tela da nossa aplicação.
+3 - Responsivo, para versão mobile.
 
-4 - Construímos um servidor e adicionamos um banco de dados local.
+4 - Trabalhar com elementos dinâmicos na tela da aplicação.
 
-5 - Adicionamos a funcionalidade de cadastrar nos vídeos, mostramos as categorias e deixamos a home dinâmica.
+5 - Construído um servidor e adicionado um banco de dados local.
+
+6 - Adicionando a funcionalidade de cadastrar nos vídeos e home dinâmica.
+
+7 - Na versão mobile o vídeo do banner aparece em outra rota.
 
 ### Recursos:
 
