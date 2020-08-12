@@ -44,3 +44,8 @@ O projeto consiste em desenvolver uma aplicação web reproduzindo a interface d
 ![Layout](src/assets/img/layout1.png)
 
 ![Layout](src/assets/img/layout2.png)
+
+
+ *criado por Elisa Andrade
+
+[![Instagram](https://img.shields.io/badge/-omariosouto-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&link=https://www.instagram.com/omariosouto/)](https://www.instagram.com/elis_aandrade/) [![LinkedIn](https://img.shields.io/badge/-omariosouto-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/omariosouto/)](https://www.linkedin.com/in/elisaaivarone/)
