@@ -2,18 +2,15 @@
 
 ## Instrutores
 
-* ### Mario Souto
-[![LinkedIn](https://img.shields.io/badge/-omariosouto-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/omariosouto/)](https://www.linkedin.com/in/omariosouto/)
+* ### Mario Souto [![LinkedIn](https://img.shields.io/badge/-omariosouto-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/omariosouto/)](https://www.linkedin.com/in/omariosouto/)
   *Instrutor da Alura, engenheiro Nubank*
 
 
-* ### Juliana Negreiros 
-[![LinkedIn](https://img.shields.io/badge/-juliananegreiros-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/juliananegreiros/)](https://www.linkedin.com/in/juliananegreiros/)
+* ### Juliana Negreiros [![LinkedIn](https://img.shields.io/badge/-juliananegreiros-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/juliananegreiros/)](https://www.linkedin.com/in/juliananegreiros/)
   *Coordenadora dos cursos de front-end da Alura*
 
 
-* ### Marco Bruno 
-[![LinkedIn](https://img.shields.io/badge/-marcobrunobr-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/marcobrunobr/)](https://www.linkedin.com/in/marcobrunobr/)
+* ### Marco Bruno [![LinkedIn](https://img.shields.io/badge/-marcobrunobr-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/marcobrunobr/)](https://www.linkedin.com/in/marcobrunobr/)
   *Engenheiro de software na Suécia*
 
 
